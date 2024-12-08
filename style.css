@@ -118,3 +118,10 @@ span {
 .blinking-text {
   animation: blink 2s infinite; /* A animação vai durar 1 segundo e se repetirá infinitamente */
 }
+
+
+h2 span.destaque {
+  color: black;
+  font-weight: bold;
+  font-size: 23px;
+}
