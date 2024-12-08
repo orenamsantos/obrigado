@@ -125,3 +125,9 @@ h2 span.destaque {
   font-weight: bold;
   font-size: 20px;
 }
+
+h4 {
+  text-align: center;
+  margin: 0 auto;
+  width: fit-content; /* Ajusta a largura ao conteúdo */
+}
